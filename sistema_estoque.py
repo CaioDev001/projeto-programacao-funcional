@@ -98,7 +98,7 @@ def menu_principal():
             print(resultado)
             
         elif opcao == '6':
-            print("Saisndo do sistema...")
+            print("Saindo do sistema...")
             break
             
         else:

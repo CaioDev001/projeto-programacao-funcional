@@ -2,6 +2,7 @@
 
 ## Integrantes da Equipe e Papéis
 - William Julian Lemos de Holanda (matrícula: 2314705) - Documentação e Requisitos
+- Emmanuel de Oliveira e Silva (matrícula: 2325882) - Documentação e Requisitos
 - Vinicius Gabriel da Justa Ximenes (matrícula: 2326167) - Implementação do Código
 - Caio Henrique Felix da Silveira (matrícula: 2326320) - Implementação do Código
 - Thiago da Silva Tavares (matrícula: 2326278) - Implementação do Código
