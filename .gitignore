@@ -1,5 +1,4 @@
 # .gitignore
-# Arquivos que NÃO queremos subir para o GitHub
 
 # Arquivos temporários do Python
 __pycache__/
