@@ -1,5 +1,5 @@
 # 📦 Sistema de Gerenciamento de Estoque
-Um sistema de gerenciamento de estoque desenvolvido em **Python** aplicando conceitos de **Programação Funcional**, como parte da disciplina de Programação Funcional da faculdade.
+Um sistema de gerenciamento de estoque desenvolvido em **Python** aplicando conceitos de **Programação Funcional**, como parte da disciplina de Programação Funcional (N704).
 
 
 ## 👥 Equipe e Papéis
