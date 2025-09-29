@@ -1,13 +1,5 @@
 # Relatório de Requisitos - Sistema de Gerenciamento de Estoque
 
-## Integrantes da Equipe e Papéis
-- William Julian Lemos de Holanda (matrícula: 2314705) - Documentação e Requisitos
-- Emmanuel de Oliveira e Silva (matrícula: 2325882) - Documentação e Requisitos
-- Vinicius Gabriel da Justa Ximenes (matrícula: 2326167) - Implementação do Código
-- Caio Henrique Felix da Silveira (matrícula: 2326320) - Implementação do Código
-- Thiago da Silva Tavares (matrícula: 2326278) - Implementação do Código
-- Layza Larissa dos Santos (matrícula: 2326311) - Testes e Validação
-
 ## Requisitos Funcionais
 
 ### RF01 - Cadastrar Produtos
@@ -57,6 +49,3 @@
 ### 4. Função de Alta Ordem
 **Localização:** Função `calcular_valor_total()`
 **Uso:** `reduce()` para calcular soma total
-
-## Uso de Chatbot
-Utilizamos o DeepSeek em situações pontuais, apenas para corrigir erros e revisar o código; também usamos na estruturação do arquivo `README.md`.
