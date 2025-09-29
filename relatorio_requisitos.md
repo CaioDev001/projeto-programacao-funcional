@@ -59,4 +59,4 @@
 **Uso:** `reduce()` para calcular soma total
 
 ## Uso de Chatbot
-Utilizamos o DeepSeek em situações pontuais, apenas para corrigir erros e revisar o código.
+Utilizamos o DeepSeek em situações pontuais, apenas para corrigir erros e revisar o código; também usamos na estruturação do arquivo `README.md`.
